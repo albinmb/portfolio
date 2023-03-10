@@ -31,5 +31,6 @@ Dotychczas pracowałem w prasie, na stanowiskach od reportera po wydawcę. Praca
 - Komunikatywność
 - Empatia
 ## Książki, które przeczytałem
+## Webinary, Meetupy
 ## Grupy, które śledzę
 ## Strony, które czytam
