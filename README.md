@@ -6,7 +6,7 @@ Dotychczas pracowałem w prasie, na stanowiskach od reportera po wydawcę. Praca
 - [ISTQB](https://drive.google.com/file/d/1nYt1jzC_lXlh8EoCC2MbPqG64i5-nQqZ/view?usp=sharing) — Poziom Podstawowy, No18166/CTFL/2022
 ## Przykładowe projekty
 - [Scenariusz testowy 01](https://github.com/albinmb/portfolio/blob/main/SCENARIUSZTESTOWY.pdf) — testy funkcji CMS
-- Scenariusz testowy 02
+- [Scenariusz testowy 02](https://github.com/albinmb/portfolio/blob/main/SCENARIUSZTESTOWY2.pdf) — testy funkcji CMS
 - Raport błędu 01
 - Raport błędu 02
 - Raport błędu 03
