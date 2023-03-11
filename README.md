@@ -31,6 +31,14 @@ Dotychczas pracowałem w prasie, na stanowiskach od reportera po wydawcę. Praca
 - Komunikatywność
 - Empatia
 ## Książki, które przeczytałem
-## Webinary, Meetupy
+- ["Certyfikowany tester ISTQB. Poziom podstawowy"](https://lubimyczytac.pl/ksiazka/4943677/certyfikowany-tester-istqb-poziom-podstawowy), A. Roman, L. Stapp
+- ["Sztuka testowania oprogramowania"](https://lubimyczytac.pl/ksiazka/170674/sztuka-testowania-oprogramowania), T. Badgett, C. Sandler i inni
+- ["Mind mapping z komputerem. Uporządkuj swoje myśli"](https://lubimyczytac.pl/ksiazka/4876458/mind-mapping-z-komputerem-uporzadkuj-swoje-mysli), P. Wimmer
+- ["UX for Dummies"](https://www.goodreads.com/book/show/20308857-ux-for-dummies), K. Nichols, D. Chesnut
 ## Grupy, które śledzę
+- [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/417833158717454/)
+- [Testowanie oprogramowania](https://www.facebook.com/groups/141683635854223/)
 ## Strony, które czytam
+- [Testerzy.pl](https://testerzy.pl/)
+- [dlaTesterów.PL](https://www.facebook.com/dlaTesterowPL)
+- [remigiuszbednarczyk.pl/](https://remigiuszbednarczyk.pl/)
