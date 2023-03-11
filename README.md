@@ -7,9 +7,9 @@ Dotychczas pracowałem w prasie, na stanowiskach od reportera po wydawcę. Praca
 ## Przykładowe projekty
 - [Scenariusz testowy 01](https://github.com/albinmb/portfolio/blob/main/SCENARIUSZTESTOWY.pdf) — testy funkcji CMS
 - [Scenariusz testowy 02](https://github.com/albinmb/portfolio/blob/main/SCENARIUSZTESTOWY2.pdf) — testy funkcji CMS
-- Raport błędu 01
-- Raport błędu 02
-- Raport błędu 03
+- [Raport błędu 01](https://github.com/albinmb/portfolio/blob/main/RAPORTBLEDU.pdf)
+- [Raport błędu 02](https://github.com/albinmb/portfolio/blob/main/RAPORTBLEDU02.pdf)
+- [Raport błędu 03](https://github.com/albinmb/portfolio/blob/main/RAPORTBLEDU03.pdf)
 ## Narzędzia
 - [JIRA](https://www.atlassian.com/software/jira)
 - [TestLink](https://testlink.org/)
