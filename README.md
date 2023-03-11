@@ -11,12 +11,12 @@ Dotychczas pracowałem w prasie, na stanowiskach od reportera po wydawcę. Praca
 - Raport błędu 02
 - Raport błędu 03
 ## Narzędzia
-- JIRA
-- TestLink
-- SoapUI
-- Postman
-- MySQL Workbench
-- Microsoft Office ;)
+- [JIRA](https://www.atlassian.com/software/jira)
+- [TestLink](https://testlink.org/)
+- [SoapUI](https://www.soapui.org/)
+- [Postman](https://www.postman.com/)
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
+- [Microsoft Office](https://www.office.com/) ;)
 ## Umiejętności
 - Znajomość zagadnień testowania na poziomie ISTQB Foundation Level
 - Wyszukiwanie i zgłaszanie błędów
