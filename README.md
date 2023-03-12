@@ -40,5 +40,5 @@ Dotychczas pracowałem w prasie, na stanowiskach od reportera po wydawcę. Praca
 - [Testowanie oprogramowania](https://www.facebook.com/groups/141683635854223/)
 ## Strony, które czytam
 - [Testerzy.pl](https://testerzy.pl/)
-- [dlaTesterów.PL](https://www.facebook.com/dlaTesterowPL)
-- [remigiuszbednarczyk.pl/](https://remigiuszbednarczyk.pl/)
+- [dlaTesterów.pl](https://www.facebook.com/dlaTesterowPL)
+- [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
