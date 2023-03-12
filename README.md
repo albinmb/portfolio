@@ -28,7 +28,7 @@ Dotychczas pracowałem w prasie, na stanowiskach od reportera po wydawcę. Praca
 - Znajomość podstaw SQL
 - HTML i CSS
 - Cierpliwość
-- Komunikatywność
+- Komunikatywność 
 - Empatia
 ## Książki, które przeczytałem
 - ["Certyfikowany tester ISTQB. Poziom podstawowy"](https://lubimyczytac.pl/ksiazka/4943677/certyfikowany-tester-istqb-poziom-podstawowy), A. Roman, L. Stapp
